@@ -1,0 +1,25 @@
+1. Na aula de Arquivo package.json foi utilizada a criação de uma pasta funcionário e dentro dela executado 
+o comando npm init, com isso apareceu opções de versão de arquivo, entre outras.
+
+2. depois disso será criado o arquivo package.json, dentro da pasta funcionario
+
+3. Em seguida, ainda dentro da pas funcionario da o comando npm i --save axios, assim será gerado um outro arquivo dentro da pasta
+
+4. foi pedido para entrar na url: http://files.cod3r.com.br/curso-js/funcionarios.json onde tem um arquivo Json de funcionarios, com o objetivo 
+de usar o axios (que faz requisiçoes de algo que está remoto), para colocar dentro de uma constante funcionarios todos os dados desse
+arquivo e utilizar ele para saber qual é o maior salário, menor, etc. A mulher chinesa com menor salário.
+
+5. Para isso, 3 funções: uma para pegar todos os chineses, outra para pegar todas as mulheres e outra para pegar o menor salario
+
+#############################################################################################################################################
+
+Criando uma API
+
+1. Para criar uma API, primeiramente foi criado o arquivo package.json dentro da pasta do projeto cm o comando>> npm init -y
+
+2. Será instalado o Express >> npm i --save express@4.16.2
+
+
+
+
+
